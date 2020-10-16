@@ -2,8 +2,6 @@
 
 *Thanks for stopping by!*
 
-I'm a Linguistics student at [FrameNet Brasil](https://github.com/FrameNetBrasil) working on `Multimodal Machine Translation` within the framework of `Frame Semantics` under the supervision of [Professor Tiago Torrent](https://tiagotorrent.com).
-
 You can find research-related stuff in the repos below :point_down: and some interesting articles on my [Instapaper](https://www.instapaper.com/p/viridiano).
 
 Feel free to get in touch via [Twitter](https://twitter.com/viridiano), [Reddit](https://www.reddit.com/user/viridiano), [Keybase](https://keybase.io/viridiano) or [Telegram](https://t.me/viridiano) if you have any questions or want to chat. For work-related issues, please use email.
