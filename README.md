@@ -4,4 +4,4 @@
 
 You can find research-related stuff in the repos below :point_down: and some interesting articles on my [Instapaper](https://www.instapaper.com/p/viridiano).
 
-Feel free to get in touch via [Twitter](https://twitter.com/viridiano), [Keybase](https://keybase.io/viridiano) or [Telegram](https://t.me/viridiano) if you have any questions or want to chat. For work-related issues, please use email.
+Feel free to get in touch via [Twitter](https://twitter.com/viridiano) or [Telegram](https://t.me/viridiano) if you have any questions or want to chat. For work-related issues, please use email.
